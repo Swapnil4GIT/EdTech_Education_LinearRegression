@@ -1,5 +1,5 @@
-# Jamboree_Education_LinearRegression
-Jamboree Education LinearRegression
+# EdTech_Education_LinearRegression
+EdTech Education LinearRegression
 
 Problem Statement:
 1. Design a machine learning model to predict the chance of admit to the IVY league college.
